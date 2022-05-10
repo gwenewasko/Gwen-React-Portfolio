@@ -1,0 +1,49 @@
+.d-none {
+  display: none;
+}
+
+.fw-w {
+  flex-wrap: wrap;
+}
+
+.jc-c {
+  justify-content: center;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.w-50 {
+  width: 50%;
+}
+
+.w-card {
+  width: 18rem;
+}
+
+.m-reg {
+  margin: 2rem;
+}
+
+.bcg-blue {
+  background-color: blue;
+}
+
+.bcg-pink {
+  background-color: pink;
+}
+
+.zoom:hover {
+  transform: scale(102%);
+}
+
+.d-none:hover {
+  display: block;
+}
+
+@media screen and (max-width: 767px) {
+  .miw-100\@sml {
+    min-width: 100%;
+  }
+}
